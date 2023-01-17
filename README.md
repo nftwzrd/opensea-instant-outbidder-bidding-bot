@@ -36,7 +36,7 @@
 - :money_with_wings: Bid/price floor to ignore bids lower than a specific price
 - :chart_with_upwards_trend: Ignores own offers for maximum efficiency
 
-## easy to Install
+## Easy to Install
 
 Built with Python and Selenium, the Instant Outbidder Bot is compatible with Mac, Windows, and Linux operating systems. Installation instructions and support are available to help with setup and configuration.
 
