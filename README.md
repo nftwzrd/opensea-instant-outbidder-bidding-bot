@@ -30,11 +30,11 @@
 ## Features
 :star: Some key features of the Instant Outbidder Bot include:
 
-:money_with_wings: Support for multiple currencies
-:chart_with_upwards_trend: Customizable bid/price cap to stay within your budget
-:mag_right: Filtering options for specific traits, rarity, price, and sorting criteria
-:money_with_wings: Bid/price floor to ignore bids lower than a specific price
-:chart_with_upwards_trend: Ignores own offers for maximum efficiency
+- :money_with_wings: Support for multiple currencies
+- :chart_with_upwards_trend: Customizable bid/price cap to stay within your budget
+- :mag_right: Filtering options for specific traits, rarity, price, and sorting criteria
+- :money_with_wings: Bid/price floor to ignore bids lower than a specific price
+- :chart_with_upwards_trend: Ignores own offers for maximum efficiency
 
 #easy to Install
 
